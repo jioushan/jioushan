@@ -6,6 +6,7 @@
 
 
 - 📝 MY Blog on [https://www.jioushan.top](https://www.jioushan.top)
+- or [https://blog.jsmsr.com](https:/blog.jsmsr.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
