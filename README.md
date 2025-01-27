@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jioushan&label=Profile%20views&color=0e75b6&style=flat" alt="jioushan" /> </p>
 
 
-- 📝 MY Blog on [https://blog.jsmsr.com](https:/blog.jsmsr.com/)
+- 📝 MY [Blog](https:/blog.jsmsr.com/) on 
 
 
 <h3 align="left">Connect with me:</h3>
