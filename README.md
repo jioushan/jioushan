@@ -1,7 +1,7 @@
 # Yahooo- 👋, I'm Avery
 
 ## 🚀 About Me  
-- 💻 Focus on: Cloud Networking, **BGP**, **IPv6**, **Linux Systems** , CDN Network, BGP Network,   
+- 💻 Focus on: Cloud Networking, **BGP**, **IPv6**, **Linux Systems** , CDN Network, BGP Network, Large-scale Network Monitoring   
 - 📚 Currently learning: Rust, Distributed Systems  
 - ✨ Interests: Internet infrastructure, **DevOps**, Open Source
 - 🎌 Languages: **JP** · **CN** · **EN**
