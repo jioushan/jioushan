@@ -1,16 +1,28 @@
+# Yahooo- 👋, I'm Avery
 
-<h1 align="center">Yahooo- 👋, Avery </h1>
-<h3 align="center">Non-binary human.</h3>
+## 🚀 About Me  
+- 💻 Focus on: Cloud Networking, BGP, IPv6, Linux Systems  
+- 📚 Currently learning: Rust, Distributed Systems  
+- ✨ Interests: Internet infrastructure, DevOps, Open Source  
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jioushan&label=Profile%20views&color=0e75b6&style=flat" alt="jioushan" /> </p>
+## 🛠️ Tech Stack
+- **Languages**: Python, H5, Bash  
+- **Networking**: BIRD, OSPF, BGP, WireGuard, Network-tools  
+- **DevOps**: Docker, Kubernetes, GitHub Actions  
+- **OS**: Debian, FreeBSD  
 
-<h3 align="left">Connect with me:</h3>
+## 📊 GitHub Stats
+![YI LI's GitHub stats] <img src="https://komarev.com/ghpvc/?username=jioushan&label=Profile%20views&color=0e75b6&style=flat" alt="jioushan" />
 
-- 📝 MY Blog on [https://blog.jsmsr.com](https:/jioushan/jioushan.github.io)
-  
-<p align="left">
-<a href="https://twitter.com/jioushan182" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jioushan182" height="30" width="40" /></a>
-</p>
+## 🔗 Find Me
+- 🌐 [Blog](https://blog.jsmsr.com)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/avery-lee-b2015a15b)  
+- ✉️ [Email]: (mailto:jioushan182@yahoo.co.jp)
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jioushan&show_icons=true&locale=en&layout=compact" alt="jioushan" /></p>
+## 🔐 My GPG Public Key
 
+- **User**: Avery Lee
+- **Email**: jioushan182@yahoo.co.jp
+- **Fingerprint**: `8823 3402 28E7 3790 6666  7CD4 5CD3 530C A0F6 E782`
+
+[![GPG Key](https://keys.openpgp.org/vks/v1/by-fingerprint/8823340228E7379066667CD45CD3530CA0F6E782)]
