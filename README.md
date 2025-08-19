@@ -1,13 +1,13 @@
 # Yahooo- 👋, I'm Avery
 
 ## 🚀 About Me  
-- 💻 Focus on: Cloud Networking, **BGP**, **IPv6**, **Linux Systems**  
+- 💻 Focus on: Cloud Networking, **BGP**, **IPv6**, **Linux Systems** , CDN Network, BGP Network,   
 - 📚 Currently learning: Rust, Distributed Systems  
 - ✨ Interests: Internet infrastructure, **DevOps**, Open Source
 - 🎌 Languages: **JP** · **CN** · **EN**
 
 ## 🛠️ Tech Stack
-- **Languages**: Python, H5, **Bash**  
+- **Languages**: Python, H5, **Bash**, Markdown,   
 - **Networking**: BIRD, OSPF, **BGP**, WireGuard, Network-tools  
 - **DevOps**: **Docker**, Kubernetes, GitHub Actions  
 - **OS**: **Debian**, FreeBSD  
