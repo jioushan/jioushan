@@ -3,7 +3,8 @@
 ## 🚀 About Me  
 - 💻 Focus on: Cloud Networking, BGP, IPv6, Linux Systems  
 - 📚 Currently learning: Rust, Distributed Systems  
-- ✨ Interests: Internet infrastructure, DevOps, Open Source  
+- ✨ Interests: Internet infrastructure, DevOps, Open Source
+- 🎌 Languages: **JP** · **CN** · **EN**
 
 ## 🛠️ Tech Stack
 - **Languages**: Python, H5, Bash  
