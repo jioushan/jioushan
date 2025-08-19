@@ -1,16 +1,16 @@
 # Yahooo- 👋, I'm Avery
 
 ## 🚀 About Me  
-- 💻 Focus on: Cloud Networking, BGP, IPv6, Linux Systems  
+- 💻 Focus on: Cloud Networking, **BGP**, **IPv6**, **Linux Systems**  
 - 📚 Currently learning: Rust, Distributed Systems  
-- ✨ Interests: Internet infrastructure, DevOps, Open Source
+- ✨ Interests: Internet infrastructure, **DevOps**, Open Source
 - 🎌 Languages: **JP** · **CN** · **EN**
 
 ## 🛠️ Tech Stack
-- **Languages**: Python, H5, Bash  
-- **Networking**: BIRD, OSPF, BGP, WireGuard, Network-tools  
-- **DevOps**: Docker, Kubernetes, GitHub Actions  
-- **OS**: Debian, FreeBSD  
+- **Languages**: Python, H5, **Bash**  
+- **Networking**: BIRD, OSPF, **BGP**, WireGuard, Network-tools  
+- **DevOps**: **Docker**, Kubernetes, GitHub Actions  
+- **OS**: **Debian**, FreeBSD  
 
 ## 📊 GitHub Stats
  <img src="https://komarev.com/ghpvc/?username=jioushan&label=Profile%20views&color=0e75b6&style=flat" alt="jioushan" />
